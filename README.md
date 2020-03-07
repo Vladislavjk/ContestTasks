@@ -1,2 +1,2 @@
 # ContestTasks
-tasks from training №1
+Tasks from training №1
